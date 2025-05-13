@@ -25,4 +25,4 @@ model.save("saved_models/lstm_model.h5")
 joblib.dump(scaler, "saved_models/scaler.pkl")
 
 
-print("✅ Modelo LSTM y scaler guardados correctamente.")
+print("✅ Modelo LSTM y scaler guardados correctamente")
